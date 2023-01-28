@@ -36,11 +36,11 @@ export const turnoComputadora = (
     if (puntosComputadora === puntosMinimos) {
       alert("Nos amamosssssssssssssss :)");
     } else if (puntosMinimos > 21) {
-      alert("Yo amo más a Frupi :)");
+      alert("Yooooooooooooo");
     } else if (puntosComputadora > 21) {
       alert("Frupi dice que me mama más :)");
     } else {
-      alert("Yo amo más a Frupi :)");
+      alert("Yooooooooooooo");
     }
   }, 100);
 };
